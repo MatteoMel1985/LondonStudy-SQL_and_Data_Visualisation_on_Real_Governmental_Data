@@ -8,7 +8,7 @@
 </div>
 
 
-London Security is a case study that involves SQL querying, Python, and data visualisation, based on real governmental datasets.  
+London Security is a criminological and demographic case study that involves SQL querying, Python, and data visualisation, based on real governmental datasets.  
 
 They were sourced and categorised in the following fashion:  
 
