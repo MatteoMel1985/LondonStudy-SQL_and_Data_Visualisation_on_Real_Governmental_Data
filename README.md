@@ -1,9 +1,67 @@
-<div style="text-align: center;">
-  <h1><b>London Security</b></h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/City_of_London_logo.svg/1024px-City_of_London_logo.svg.png" 
-       width="400" 
-       style="display: block; margin-left: auto; margin-right: auto;">
-  <h2><i>Case study involving SQL querying, Python, and data visualisation based on real governmental datasets</i></h2>
+<div align="center">
+  <h1>London Security</h1>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_Arms_of_The_City_of_London.svg/1024px-Coat_of_Arms_of_The_City_of_London.svg.png"
+    width="400"
+    alt="City of London coat of arms"
+  />
 </div>
 
-Case study involving SQL querying and data visualisation based on real governmental datasets
+
+London Security is a case study that involves SQL querying, Python, and data visualisation, based on real governmental datasets.  
+
+They were sourced and categorised in the following fashion:  
+
+## ***City of London Police: Criminological Data***  
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/City_of_London_Police_logo.svg/1920px-City_of_London_Police_logo.svg.png" width="300">
+
+The dataset contains a detailed selection of crimes reported in the City of London during May 2025, including geospatial data and an additional outcomes table. 
+
+### Downloads:
+
+[**May 2025 London Police Reported Crimes With Geospatial Data**](https://cdn.jsdelivr.net/gh/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data@main/CSV%20Datasets/City%20of%20London%20Police/2025-05-London-Geospatial-Crimes.csv)  
+[**May 2025 London Police Reported Crimes Outcomes**](https://cdn.jsdelivr.net/gh/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data@main/CSV%20Datasets/City%20of%20London%20Police/2025-05-London-Outcomes-Crimes.csv
+)  
+
+
+## ***Metropolitan Police Service: Historical of Ward Level Reported Crimes from August 2023 to July 2025***
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Metropolitan_Police_logo.svg/1920px-Metropolitan_Police_logo.svg.png" width="300">
+
+<div style="text-align: justify;">
+    
+The dataset presents an extended record of reported crimes per ward, covering the period from August 2023 to July 2025.
+
+### [Download](https://cdn.jsdelivr.net/gh/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data@main/CSV%20Datasets/Metropolitan%20Police/MPS%20Ward%20Level%20Crime%20(Aug%202023%20to%20Jul%202025).csv)
+
+</div>  
+
+## ***Office for National Statistics: 2021 Census Data***
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Office_for_National_Statistics_logo.svg/1920px-Office_for_National_Statistics_logo.svg.png" width="300">  
+
+<div style="text-align: justify;">  
+    
+The Office for National Statistics published the 2021 Census Bulk Data, inclusive of demography and migration, UK armed forces veterans data, ethnicity, identity, language and religion data, Welsh language in Wales, work and travel data, housing, sexual orientation and gender identity, Education, and Health.
+
+### Downloads: 
+
+[**Passport Holders Per Location**](https://cdn.jsdelivr.net/gh/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data@main/CSV%20Datasets/Office%20for%20National%20Statistics/Census_2021_Passport_Holders.csv)  
+[**Ethnic Groups Per Location**](https://cdn.jsdelivr.net/gh/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data@main/CSV%20Datasets/Office%20for%20National%20Statistics/Census_2021_Ethnic_Groups.csv)  
+
+</div>  
+
+## ***Ministry of Housing, Communities & Local Government - 2019 London Wards Indices of Deprivation***
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/MHCLG_logo.svg/1920px-MHCLG_logo.svg.png" width="300">
+
+The 2019 London indices of deprivation per ward published by the Ministry of Housing, Communities & Local Government.  
+
+### [Download](https://cdn.jsdelivr.net/gh/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data@main/CSV%20Datasets/Ministry%20of%20Housing%2C%20Communities%20%26%20Local%20Government/Indices_of_Deprivation.csv)  
+
+The full case study was issued on Jupyter Notebook and uploaded to the repository with the title [London Security.ipynb](https://github.com/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data/blob/main/London%20Security.ipynb).  
+
+The maps and graphs from this work were also uploaded to the Data Visualisation folder of the repository, both in PNG and HTML format.
+
+
