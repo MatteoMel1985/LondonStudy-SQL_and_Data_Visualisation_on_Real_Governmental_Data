@@ -14,7 +14,7 @@ They were sourced and categorised in the following fashion:
 
 ## ***City of London Police: Criminological Data***  
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/City_of_London_Police_logo.svg/1920px-City_of_London_Police_logo.svg.png" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhIyZNY0C3vSSPm9ufwd2r40LCov9taa2YfvBFJM-nQ&s=10" width="300">
 
 The dataset contains a detailed selection of crimes reported in the City of London during May 2025, including geospatial data and an additional outcomes table. 
 
@@ -54,7 +54,7 @@ The Office for National Statistics published the 2021 Census Bulk Data, inclusiv
 
 ## ***Ministry of Housing, Communities & Local Government - 2019 London Wards Indices of Deprivation***
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/MHCLG_logo.svg/1920px-MHCLG_logo.svg.png" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvsB_ahyUQEkFNIcAPyOZE8LktabbTqLeDrTd8rJEmw&s=10" width="300">
 
 The 2019 London indices of deprivation per ward published by the Ministry of Housing, Communities & Local Government.  
 
