@@ -64,4 +64,5 @@ The full case study was issued on Jupyter Notebook and uploaded to the repositor
 
 The maps and graphs from this work were also uploaded to the Data Visualisation folder of the repository, both in PNG and HTML format.
 
-
+# Author
+# ***[Matteo Meloni](https://www.linkedin.com/in/matteo-meloni-40a357154/)***
