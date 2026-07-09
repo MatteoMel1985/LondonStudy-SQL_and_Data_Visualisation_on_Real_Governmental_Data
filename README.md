@@ -39,7 +39,7 @@ The dataset presents an extended record of reported crimes per ward, covering th
 
 ## ***Office for National Statistics: 2021 Census Data***
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Office_for_National_Statistics_logo.svg/1920px-Office_for_National_Statistics_logo.svg.png" width="300">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXQEZzHMYzmVGp-93FE6Z9antuMOx-ylVO6Z_Sjy7OudAaIZK7a-6A2vi&s=10" width="300">  
 
 <div style="text-align: justify;">  
     
