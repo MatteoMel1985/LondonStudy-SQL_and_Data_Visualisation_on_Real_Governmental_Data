@@ -60,7 +60,7 @@ The 2019 London indices of deprivation per ward published by the Ministry of Hou
 
 ### [Download](https://cdn.jsdelivr.net/gh/MatteoMel1985/LondonStudy-SQL_and_Data_Visualisation_on_Real_Governmental_Data@main/CSV%20Datasets/Ministry%20of%20Housing%2C%20Communities%20%26%20Local%20Government/Indices_of_Deprivation.csv)  
 
-The full case study was issued on Jupyter Notebook and uploaded to the repository with the title [London Security.ipynb](London Security.ipynb).  
+The full case study was issued on Jupyter Notebook and uploaded to the repository with the title [London Security](London%20Security.ipynb).  
 
 The maps and graphs from this work were also uploaded to the Data Visualisation folder of the repository, both in PNG and HTML format.
 
