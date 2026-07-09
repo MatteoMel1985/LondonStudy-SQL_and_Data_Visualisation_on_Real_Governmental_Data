@@ -1,7 +1,7 @@
 <div align="center">
   <h1>London Security</h1>
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_Arms_of_The_City_of_London.svg/1024px-Coat_of_Arms_of_The_City_of_London.svg.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coat_of_Arms_of_The_City_of_London.svg/1280px-Coat_of_Arms_of_The_City_of_London.svg.png"
     width="400"
     alt="City of London coat of arms"
   />
